@@ -1,23 +1,20 @@
-<h1 align="center"> Hi, I'am Ilayda </h1>
-<h2> # 💫 About Me: </h2>
-🌱 I’m currently learning C++/Python<br>💬 Ask me about Python<br>📫 How to reach me c.ilyd19@gmail.com<br>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<h1 align="center">Hi 👋, I'm Ilayda</h1>
+<h3 align="center">A passionate frontend developer from Turkey</h3>
 
+- 🌱 I’m currently learning **C++,Python**
 
-🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/c.ilyd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cilyd) 
+- 📫 How to reach me **c.ilyd19@gmail.com**
 
-💻 Tech Stack:
-!C# !C++ !CSS3 !Dart !HTML5 !JavaScript !PHP !MySQL !MicrosoftSQLServer !Adobe Photoshop !Adobe After Effects !Adobe Premiere Pro !Adobe Illustrator
-📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=potatoref&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=potatoref&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=potatoref&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/cilyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cilyd" height="30" width="40" /></a>
+<a href="https://instagram.com/c.ilyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="c.ilyd" height="30" width="40" /></a>
+</p>
 
-🐦 Latest Tweet
-![](https://gtce.itsvg.in/api?username=potatoref)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
----
-![](https://visitcount.itsvg.in/api?id=potatoref&icon=5&color=0)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loftyilayda&show_icons=true&locale=en" alt="loftyilayda" /></p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in/ ) -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loftyilayda&" alt="loftyilayda" /></p>
+
